@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+Pra ver este projeto acesse [AQUI](https://endearing-tulumba-0ba2bf.netlify.app/)
 
 ## :sparkles: Features ##
 

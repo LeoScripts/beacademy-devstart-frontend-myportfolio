@@ -1,0 +1,24 @@
+{
+  "name": "beacademy-devstart-portifolio",
+  "version": "1.0.0",
+  "description": "<div align=\"center\" id=\"top\">    <img src=\"./assets/img/preview-portifolio.png\" alt=\"Beacademy Devstart Portifolio\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoScripts/beacademy-devstart-portifolio.git"
+  },
+  "keywords": [
+    "Html",
+    "CSS",
+    "JS"
+  ],
+  "author": "Leandro Cavalcante <leandroguitarjesus89@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoScripts/beacademy-devstart-portifolio/issues"
+  },
+  "homepage": "https://github.com/LeoScripts/beacademy-devstart-portifolio#readme"
+}
