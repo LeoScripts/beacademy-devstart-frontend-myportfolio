@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <!-- <img src="./.github/app.gif" alt="Beacademy Devstart Portifolio" /> -->
+  <img src="./assets/img/preview-portifolio.png" alt="Beacademy Devstart Portifolio" />
 
   &#xa0;
 

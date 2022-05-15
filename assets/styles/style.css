@@ -46,7 +46,7 @@ header .container nav .menu-social img:hover {
 }
 
 .section-hero {
-  background: url(../img/section-hero-bg.jpg);
+  background: url(../img/section-hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -104,6 +104,14 @@ header .container nav .menu-social img:hover {
   justify-content: space-between;
   gap: 1.6rem;
   margin-top: 2.3rem;
+}
+
+.section-hero .container .title .techs a {
+  transition: ease-in 0.2s;
+}
+
+.section-hero .container .title .techs a:hover {
+  transform: scale(1.1);
 }
 
 .section-hero .container .title .btn-primary {
@@ -206,7 +214,7 @@ header .container nav .menu-social img:hover {
 .section-cases .container .cases img {
   border-radius: 0.4rem;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: ease-in 0.3s;
 }
 
 .section-cases .container .cases img:hover {
@@ -225,6 +233,11 @@ header .container nav .menu-social img:hover {
   left: 4px;
 }
 
+.section-cases .container .cases .case:first-child:hover {
+  z-index: 1000;
+  transform: scale(1.5);
+}
+
 .section-cases .container .cases .case:nth-child(2) {
   position: absolute;
   top: -20px;
@@ -237,6 +250,11 @@ header .container nav .menu-social img:hover {
   top: 0;
   left: 700px;
 }
+
+.section-cases .container .cases .case:last-child:hover {
+  z-index: 1000;
+}
+
 
 .section-contact {
   padding-bottom: 4rem;
